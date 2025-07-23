@@ -62,11 +62,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hisuwii&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hisuwii&theme=radical&hide_border=true" width="48%"/>
 </p>
-
----
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hisuwii&bg_color=1e1e1e&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
