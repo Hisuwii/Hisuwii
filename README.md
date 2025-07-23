@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Jade</h1>
 <h3 align="center">A passionate Web Developer from the Philippines 🇵🇭</h3>
----
 
 ### 🚀 About Me
 
@@ -9,7 +8,6 @@
 - 💬 Ask me about **PHP**, **JavaScript**, and **Bootstrap**
 - 🎯 Goal: Build clean, efficient, and scalable web applications.
 
----
 
 ### 🛠️ Tech Stack
 
