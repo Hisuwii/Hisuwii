@@ -2,19 +2,21 @@
 <h3 align="center">A passionate Web Developer from the Philippines 🇵🇭</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hisuwii&label=Profile%20views&color=0e75b6&style=flat-square" alt="hisuwii profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=hisuwii&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **CodeIgniter** and **TypeScript**  
-- 👯 Open to collaborate on **Web Development Projects**  
-- 💬 Ask me about **PHP**, **JavaScript**, **Bootstrap**
+
+- 🌱 Currently learning **CodeIgniter** and **TypeScript**
+- 👯 Open to collaborate on **Web Development Projects**
+- 💬 Ask me about **PHP**, **JavaScript**, and **Bootstrap**
+- 🎯 Goal: Build clean, efficient, and scalable web applications.
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
@@ -54,12 +56,21 @@
 
 ---
 
-### 📊 GitHub Stats (Optional)
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hisuwii&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hisuwii&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hisuwii&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hisuwii&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hisuwii&bg_color=1e1e1e&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
 
+### 🏆 GitHub Trophies (Optional)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hisuwii&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</p>
